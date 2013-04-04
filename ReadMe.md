@@ -4,6 +4,8 @@
 This is a central repo of all the community made configs. These are all used alongside the soartex community made unstitcher. Below is an example of a config.
 
     (Iron Chest Example)
+    output=/mods/ironchest/textures/blocks/
+    
     1.1=iron_side
     1.2=iron_top
     1.3=iron_front
