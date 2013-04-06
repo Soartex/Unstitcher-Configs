@@ -2,10 +2,12 @@
 Released Mods
 -----------------
 -Backpack (Done)
+-ExtraBiomesXL (Done)
 -Factorization (Done)
 -Immibis' Chunk Loader (Done)
 -Immibis' Tube Stuff (Done)
 -Ironchest (Done)
+-Mystcraft (Done)
 -Twilightforest (Done)
 
 
