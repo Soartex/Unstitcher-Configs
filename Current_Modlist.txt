@@ -1,7 +1,8 @@
+-Backpack (Done)
 -Buildcraft (Done)
 -EE3 (Done)
--Factorization (??)
+-Factorization (Done)
+-IndustrialCraft (Done)
 -Ironchest (Done)
 -Thermal Expansion (99.9%)
 -Twilightforest (Done)
-
