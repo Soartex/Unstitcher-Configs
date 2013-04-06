@@ -1,8 +1,19 @@
+-----------------
+Released Mods
+-----------------
 -Backpack (Done)
+-Factorization (Done)
+-Immibis' Chunk Loader (Done)
+-Immibis' Tube Stuff (Done)
+-Ironchest (Done)
+-Twilightforest (Done)
+
+
+-----------------
+Mods in Beta
+-----------------
 -Buildcraft (Done)
 -EE3 (Done)
--Factorization (Done)
+-Forestry (Done)
 -IndustrialCraft (Done)
--Ironchest (Done)
 -Thermal Expansion (99.9%)
--Twilightforest (Done)
