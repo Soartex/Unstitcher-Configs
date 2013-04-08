@@ -1,22 +1,23 @@
 -----------------
 Released Mods
 -----------------
--Applied Energistics (Done)
--Backpack (Done)
--ExtraBiomesXL (Done)
--Factorization (Done)
--Immibis' Chunk Loader (Done)
--Immibis' Tube Stuff (Done)
--Ironchest (Done)
--Mystcraft (Done)
--Twilightforest (Done)
-
+-Applied Energistics
+-Backpack
+-CompactSolars
+-ComputerCraft
+-ExtraBiomesXL
+-Factorization
+-Immibis' Chunk Loader
+-Immibis' Tube Stuff
+-Ironchest
+-Mystcraft
+-Twilightforest
 
 -----------------
 Mods in Beta
 -----------------
--Buildcraft (Done)
--EE3 (Done)
--Forestry (Done)
--IndustrialCraft (Done)
+-Buildcraft
+-EE3
+-Forestry
+-IndustrialCraft
 -Thermal Expansion (99.9%)
