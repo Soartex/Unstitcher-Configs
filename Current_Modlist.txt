@@ -1,6 +1,7 @@
 -----------------
 Released Mods
 -----------------
+-Applied Energistics (Done)
 -Backpack (Done)
 -ExtraBiomesXL (Done)
 -Factorization (Done)
