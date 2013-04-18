@@ -3,6 +3,8 @@ Released Mods
 -----------------
 -Applied Energistics
 -Backpack
+-Biomes O' Plenty
+-Charge Pads
 -CompactSolars
 -ComputerCraft
 -ExtraBiomesXL
