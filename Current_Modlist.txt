@@ -22,4 +22,5 @@ Mods in Beta
 -EE3
 -Forestry
 -IndustrialCraft
+-Railcraft
 -Thermal Expansion (99.9%)
