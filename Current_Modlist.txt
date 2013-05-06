@@ -1,26 +1,33 @@
 -----------------
 Released Mods
 -----------------
--Applied Energistics
--Backpack
--Biomes O' Plenty
--Charge Pads
--CompactSolars
--ComputerCraft
--ExtraBiomesXL
--Factorization
--Immibis' Chunk Loader
--Immibis' Tube Stuff
--Ironchest
--Mystcraft
--Twilightforest
+{c} - Advanced Machines
+{c} - Advanced Solar Panels
+{c} - Applied Energistics
+{c} - BiblioCraft
+{c} - Buildcraft
+{u} - Backpack
+{u} - Biomes O' Plenty
+{c} - Charge Pads
+{u} - CompactSolars
+{u} - ComputerCraft
+{u} - ExtraBiomesXL
+{u} - Factorization
+{u} - Immibis' Chunk Loader
+{u} - Immibis' Tube Stuff
+{u} - Ironchest
+{u} - Mystcraft
+{u} - Twilightforest
 
 -----------------
 Mods in Beta
 -----------------
--Buildcraft
--EE3
--Forestry
--IndustrialCraft
--Railcraft
--Thermal Expansion (99.9%)
+{u} - EE3
+{u} - Forestry
+{u} - IndustrialCraft
+{u} - Railcraft
+{u} - Thermal Expansion (99.9%)
+
+{c} = Complete conversion
+{i} = Incomplete conversion
+{u} = Unknown
