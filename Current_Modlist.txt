@@ -13,19 +13,19 @@ Released Mods
 {u} - ComputerCraft
 {u} - ExtraBiomesXL
 {u} - Factorization
+{u} - Forestry
 {u} - Immibis' Chunk Loader
 {u} - Immibis' Tube Stuff
 {u} - Ironchest
 {u} - Mystcraft
+{u} - Railcraft
 {u} - Twilightforest
 
 -----------------
 Mods in Beta
 -----------------
 {u} - EE3
-{u} - Forestry
 {u} - IndustrialCraft
-{u} - Railcraft
 {u} - Thermal Expansion (99.9%)
 
 {c} = Complete conversion
