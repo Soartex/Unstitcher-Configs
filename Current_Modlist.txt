@@ -19,6 +19,7 @@ Released Mods
 {u} - Ironchest
 {u} - Mystcraft
 {u} - Railcraft
+{u} - Thermal Expansion (99.9%)
 {u} - Twilightforest
 
 -----------------
@@ -26,7 +27,6 @@ Mods in Beta
 -----------------
 {u} - EE3
 {u} - IndustrialCraft
-{u} - Thermal Expansion (99.9%)
 
 {c} = Complete conversion
 {i} = Incomplete conversion
