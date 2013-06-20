@@ -15,6 +15,7 @@ Released Mods
 {c} - ChickenChunks
 {u} - CompactSolars
 {u} - ComputerCraft
+{c} - DragonMounts
 {c} - EasyCrafting
 {c} - EnderStorage
 {u} - ExtraBiomesXL
@@ -22,22 +23,26 @@ Released Mods
 {u} - Factorization
 {u} - Forestry
 {c} - GregTech
+{c} - GregsLighting
 {u} - Immibis' Chunk Loader
 {u} - Immibis' Tube Stuff
 {u} - Ironchest
 {c} - MagicBees (ThaumicBees)
+{c} - MagicYarn
 {u} - Mo-Creatures
 {c} - MoreFurnaces
 {c} - MoreHealth
 {c} - MorePistons
 {u} - Mystcraft
 {u} - Nuclear Control
+{c} - OmniTools
 {c} - PetBat
 {c} - PowerConverters
 {u} - Railcraft
 {c} - SoulShards
 {i} - SteveCarts
 {c} - Thermal Expansion
+{c} - ThirstMod
 {u} - Twilightforest
 {i} - XReliquary
 
