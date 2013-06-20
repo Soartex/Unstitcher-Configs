@@ -4,6 +4,7 @@ Released Mods
 {c} - Advanced Machines
 {c} - Advanced Solar Panels
 {c} - Applied Energistics
+{c} - AstralCraft
 {u} - Better Than Wolves
 {c} - BiblioCraft
 {u} - Biomes O Plenry
@@ -14,6 +15,7 @@ Released Mods
 {c} - ChickenChunks
 {u} - CompactSolars
 {u} - ComputerCraft
+{c} - EasyCrafting
 {c} - EnderStorage
 {u} - ExtraBiomesXL
 {i} - ExtraBees
@@ -25,14 +27,19 @@ Released Mods
 {u} - Ironchest
 {c} - MagicBees (ThaumicBees)
 {u} - Mo-Creatures
+{c} - MoreFurnaces
+{c} - MoreHealth
+{c} - MorePistons
 {u} - Mystcraft
 {u} - Nuclear Control
+{c} - PetBat
 {c} - PowerConverters
 {u} - Railcraft
 {c} - SoulShards
 {i} - SteveCarts
 {c} - Thermal Expansion
 {u} - Twilightforest
+{i} - XReliquary
 
 -----------------
 Mods in Beta
