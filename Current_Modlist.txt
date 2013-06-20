@@ -4,22 +4,34 @@ Released Mods
 {c} - Advanced Machines
 {c} - Advanced Solar Panels
 {c} - Applied Energistics
+{u} - Better Than Wolves
 {c} - BiblioCraft
+{u} - Biomes O Plenry
 {c} - Buildcraft
 {u} - Backpack
-{u} - Biomes O' Plenty
+{u} - Biomes O Plenty
 {c} - Charge Pads
+{c} - ChickenChunks
 {u} - CompactSolars
 {u} - ComputerCraft
+{c} - EnderStorage
 {u} - ExtraBiomesXL
+{i} - ExtraBees
 {u} - Factorization
 {u} - Forestry
+{c} - GregTech
 {u} - Immibis' Chunk Loader
 {u} - Immibis' Tube Stuff
 {u} - Ironchest
+{c} - MagicBees (ThaumicBees)
+{u} - Mo-Creatures
 {u} - Mystcraft
+{u} - Nuclear Control
+{c} - PowerConverters
 {u} - Railcraft
-{u} - Thermal Expansion (99.9%)
+{c} - SoulShards
+{i} - SteveCarts
+{c} - Thermal Expansion
 {u} - Twilightforest
 
 -----------------
@@ -27,7 +39,11 @@ Mods in Beta
 -----------------
 {u} - EE3
 {u} - IndustrialCraft
+{i} - Metallurgy 3
 
+-----------------
+Key
+-----------------
 {c} = Complete conversion
 {i} = Incomplete conversion
 {u} = Unknown
