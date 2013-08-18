@@ -34,6 +34,7 @@ Released Mods
 {c} - MoreHealth
 {c} - MorePistons
 {u} - Mystcraft
+{i} - NetherOres
 {u} - Nuclear Control
 {c} - OmniTools
 {c} - PetBat
